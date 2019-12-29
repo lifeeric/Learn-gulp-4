@@ -1,6 +1,6 @@
 # Learn Gulp 4
 
-it's awesome, I love it!
+it's awesome, I love it! it wil minified the css, js files too!
 
 ### how to use?
 after cloning the rep run the below command
