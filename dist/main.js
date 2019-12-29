@@ -1,0 +1,1 @@
+function abc(){console.log("error is not found")}console.log("life"),console.error("ls"),abc();
